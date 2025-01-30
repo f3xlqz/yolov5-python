@@ -29,4 +29,10 @@ This project is designed to detect fruits using the YOLOv5 object detection mode
    pip install torch torchvision
    pip install opencv-python
    pip install yolov5
-
+3. **Run the program:**
+   Once all dependencies are installed, you can run the fruit detection program with the following command.
+   ```bash
+   python main.py
+4. **Acknowledgements:**
+- YOLOv5 model by Ultralytics
+- OpenCV for webcam handling
