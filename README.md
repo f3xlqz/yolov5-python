@@ -20,7 +20,7 @@ This project is designed to detect fruits using the YOLOv5 object detection mode
 1. **Clone the repository:**
    First, clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/fruit-detection-yolov5.git
+   git clone [https://github.com/your-username/fruit-detection-yolov5.git](https://github.com/f3xlqz/yolov5-python.git](https://github.com/f3xlqz/yolov5-python.git)
    cd fruit-detection-yolov5
 2. **Install required libraries:**
    Use pip to install the necessary libraries. You can create a virtual environment for this project to manage dependencies.
