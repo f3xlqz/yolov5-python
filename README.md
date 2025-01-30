@@ -1,10 +1,24 @@
-<h2>This project is about object detection using the yolov5 model.</h2>
-<h2>Installation</h2>
-  <p>To get a local copy up and running, follow these simple steps:</p>
-  <p># Clone the repository</p>
-  <p>https://github.com/f3xlqz/yolov5-python.git</p>
+# Fruit Detection with YOLOv5 using Webcam
 
-  <p>#Install required libraries</p>
-  <p>pip install torch torchvision</p>
-  <p>pip install opencv-python</p>
-  <p>pip install yolov5</p>
+## Overview
+This project is designed to detect fruits using the YOLOv5 object detection model and a webcam. By utilizing Python and the YOLOv5 model, the program captures video frames from the webcam, processes them, and identifies fruits in real-time. This project can be extended to detect various types of fruits and can be used as a base for applications in agriculture, inventory systems, or interactive educational tools.
+
+### Key Features:
+- Real-time fruit detection using YOLOv5
+- Webcam integration for live video feed
+- Simple and easy-to-understand code
+
+## Installation
+
+### Prerequisites:
+- Python 3.7 or higher
+- A working webcam (USB or built-in)
+- An internet connection for downloading necessary dependencies
+
+### Steps to Install:
+
+1. **Clone the repository:**
+   First, clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/fruit-detection-yolov5.git
+   cd fruit-detection-yolov5
