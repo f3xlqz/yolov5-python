@@ -24,5 +24,9 @@ This project is designed to detect fruits using the YOLOv5 object detection mode
    cd fruit-detection-yolov5
 2. **Install required libraries:**
    Use pip to install the necessary libraries. You can create a virtual environment for this project to manage dependencies.
-   ```pip install -r requirements.txt
-   
+   ```bash
+   pip install -r requirements.txt
+   pip install torch torchvision
+   pip install opencv-python
+   pip install yolov5
+
