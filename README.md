@@ -1,6 +1,6 @@
 <h2>This project is about object detection using the yolov5 model.</h2>
 <h2>Installation</h2>
-To get a local copy up and running, follow these simple steps:
+  <p>To get a local copy up and running, follow these simple steps:</p>
   # Clone the repository
   https://github.com/f3xlqz/yolov5-python.git
 
